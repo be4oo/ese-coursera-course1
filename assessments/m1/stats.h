@@ -14,7 +14,7 @@
  *
  * <Add Extended Description Here>
  *
- * @author <Add FirsName LastName>
+ * @author <besho wesa>
  * @date <Add date >
  *
  */
@@ -38,3 +38,17 @@
 
 
 #endif /* __STATS_H__ */
+
+//int a[40];
+
+void print_statistics(int t1 , int t2 , int t3 , int t4);
+void print_array(int a[] );
+int find_median(int a[] );
+int find_mean(int a[] );
+int find_maximum(int a[] );
+int find_minimum(int a[] );
+//int sort_array( a , l );
+
+
+
+
